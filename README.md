@@ -56,4 +56,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrPacar/DrPacar/output/snake-dark.svg"/>
   <img alt="github contributions with snake animation" src="https://raw.githubusercontent.com/DrPacar/DrPacar/output/snake-light.svg"/>
 </picture>
+
 ###
