@@ -1,4 +1,4 @@
-<h2 align="center">👋Hello - I'm Luka👋</h2>
+<h2 align="center">👋 Hello - I'm Luka 👋</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👨‍💻About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">🍀My contributions</h3>
+<h3 align="left">🍀 My contributions</h3>
 
 ###
 
