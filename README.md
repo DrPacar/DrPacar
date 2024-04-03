@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Depressed Java Developer since 2020 <br>    🎯 Goals: Survive<br>    🎲 Fun fact: Dogs are a man's best friend</p>
+<p align="left">✨ I feel like reading this is not a good use of your time ✨<br></p>
 
 ###
 
