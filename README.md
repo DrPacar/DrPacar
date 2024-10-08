@@ -1,4 +1,4 @@
-<h3 align="center">🍀 "Programming is the silent poetry of solving chaos with hope." 🍀</h3>
+<h3 align="center">🍀 "Programming is the silent poetry of solving chaos with hope" 🍀</h3>
 <hr>
 
 ###
