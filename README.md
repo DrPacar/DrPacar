@@ -54,11 +54,10 @@
 
 ###
 
+<hr>
 <h3 align="left">🍀 My contributions 🍀</h3>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrPacar/DrPacar/output/snake-light.svg"/>
